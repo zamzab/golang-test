@@ -1,1 +1,1 @@
-# golang-test
+golangとgoogle auth/firestoreのテスト
