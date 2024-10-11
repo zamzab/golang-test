@@ -1,1 +1,1 @@
-golangとgoogle auth/firestoreのテスト
+golangとGoogle Auth/Firestoreを利用してみたかったのでテストで作ったwebサイトです。
